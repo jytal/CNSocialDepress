@@ -14,6 +14,11 @@ This dataset is associated with the paper:
 
 arXiv: https://arxiv.org/abs/2510.11233
 
+
+## Download
+
+You can download the dataset from the following link: https://drive.google.com/file/d/1QCRZJAJsESg9WB6pmLqnDtbmASNhHaaN/view?usp=sharing 
+
 ## Dataset Overview
 
 CNSocialDepress contains user-level Chinese social media data from Sina Weibo. Each user sample includes multiple Weibo posts and a structured psychological analysis.
