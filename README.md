@@ -1,4 +1,4 @@
-# CNSocialDepress
+# CNSocialDepress (CNSD)
 
 **CNSocialDepress** is a Chinese social media dataset for depression risk detection and structured psychological analysis.
 
