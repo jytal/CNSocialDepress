@@ -13,7 +13,7 @@ This dataset is associated with the paper:
 **CNSocialDepress: A Chinese Social Media Dataset for Depression Risk Detection and Structured Analysis**
 
 arXiv: https://arxiv.org/abs/2510.11233
-
+(This paper, CNSocialDepress, has been accepted by the 6th RaPID@MENTAL.ai Workshop @ LREC 2026.)
 
 ## Download
 
@@ -67,11 +67,11 @@ The top-level JSON structure is:
 ```json
 {
   "p_user_1": {
-    "inpput": "...",
+    "input": "...",
     "output": "..."
   },
   "n_user_1": {
-    "inpput": "...",
+    "input": "...",
     "output": "..."
   }
 }
@@ -454,14 +454,11 @@ Negative emotions / depressive psychological state / clinical symptoms / externa
 If you use CNSocialDepress, please cite our paper:
 
 ```bibtex
-@misc{xu2026cnsocialdepress,
-  title = {CNSocialDepress: A Chinese Social Media Dataset for Depression Risk Detection and Structured Analysis},
-  author = {Xu, Jinyuan and Lan, Tian and Yu, Xintao and He, Xue and Zhang, Hezhi and Wang, Ying and Magistry, Pierre and Valette, Mathieu and Li, Lei},
-  year = {2026},
-  eprint = {2510.11233},
-  archivePrefix = {arXiv},
-  primaryClass = {cs.CL},
-  url = {https://arxiv.org/abs/2510.11233}
+@inproceedings{xu2026cnsocialdepress,
+  title     = {{CNSocialDepress}: A Chinese Social Media Dataset for Depression Risk Detection and Structured Analysis},
+  author    = {Xu, Jinyuan and Lan, Tian and Yu, Xinyi and He, Xiangyu and Zhang, Hongbo and Wang, Yuxuan and Magistry, Pierre and Valette, Mathieu and Li, Lihua},
+  booktitle = {Proceedings of the 6th RaPID@MENTAL.ai Workshop on Resources and ProcessIng of linguistic, para-linguistic and extra-linguistic Data from people with various forms of cognitive/psychiatric/developmental impairments @ LREC 2026},
+  year      = {2026}
 }
 ```
 
