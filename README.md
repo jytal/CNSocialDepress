@@ -456,7 +456,7 @@ If you use CNSocialDepress, please cite our paper:
 ```bibtex
 @inproceedings{xu2026cnsocialdepress,
   title     = {{CNSocialDepress}: A Chinese Social Media Dataset for Depression Risk Detection and Structured Analysis},
-  author    = {Xu, Jinyuan and Lan, Tian and Yu, Xinyi and He, Xiangyu and Zhang, Hongbo and Wang, Yuxuan and Magistry, Pierre and Valette, Mathieu and Li, Lihua},
+  author    = {Xu, Jinyuan and Lan, Tian and Yu, Xintao and He, Xue and Zhang, Hezhi and Wang, Ying and Magistry, Pierre and Valette, Mathieu and Li, Lei},
   booktitle = {Proceedings of the 6th RaPID@MENTAL.ai Workshop on Resources and ProcessIng of linguistic, para-linguistic and extra-linguistic Data from people with various forms of cognitive/psychiatric/developmental impairments @ LREC 2026},
   year      = {2026}
 }
